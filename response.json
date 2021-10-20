@@ -1,0 +1,19 @@
+{
+   "transactionId":"INV-01376953-9346-4775-b4b4-c5361bf8d647",
+   "transactionStatus":"REJECTED",
+   "errorResponseDetails":{
+      "code":"BEXT-650",
+      "message":"Bad request",
+      "externalErrors":{
+         "errorOrigin":"validate-market-order",
+         "errors":[
+            {
+               "errorCode":"OMS-05101",
+               "errorMessages":[
+                  "REDACTED"
+               ]
+            }
+         ]
+      }
+   }
+}
